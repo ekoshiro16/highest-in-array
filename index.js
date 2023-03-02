@@ -5,7 +5,8 @@ Write a function called highestInArray that, when given an array of numbers, whe
 
 If your function is given an array with one or less numbers, your function should return the following string: "Your array does not contain enough data."
 
-Note that the array argument is NOT sorted when given to you! 
+Note: The array argument is NOT sorted when given to you! 
+Note 2: If you know how to use the .sort method, you may not use that in this algorithm. 
 
 For example:
 If your function was given the array like: [100, 50, 30, 90, 40, 150, 80, 300, 60, 55]
